@@ -1,3 +1,4 @@
 #!/bin/bash
-su betty u
+su betty
+pwd
 
