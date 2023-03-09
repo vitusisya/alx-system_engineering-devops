@@ -1,4 +1,3 @@
 #!/bin/bash
-su betty
-pwd
+sudo su betty
 
