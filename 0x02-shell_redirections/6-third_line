@@ -1,2 +1,2 @@
 #!/bin/bash
-head --line=3 | tail --lines=1
+head --lines=3 | tail --lines=1
